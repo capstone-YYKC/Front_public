@@ -1,0 +1,421 @@
+.Chart{
+  position: absolute;
+  top: 155px;
+  left: 240px;
+}
+.mainChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray-100);
+  width: 1918px;
+  height: 86px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 28px;
+  left: 1637px;
+  font-size: var(--font-size-5xl);
+}
+.div1,
+.div2 {
+  left: 1518px;
+}
+.div2 {
+  left: 1772px;
+}
+.gomgom2Icon {
+  top: -38px;
+  left: 131px;
+  width: 238px;
+  height: 167px;
+  object-fit: cover;
+}
+.div3,
+.gomgom2Icon,
+.mainItem {
+  position: absolute;
+}
+.div3 {
+  top: 24px;
+  left: 47px;
+  font-size: var(--font-size-13xl);
+}
+.mainItem {
+  top: 612px;
+  left: 57px;
+  background-color: var(--color-linen-100);
+  width: 1135px;
+  height: 269px;
+}
+.mainChild1,
+.mainChild2,
+.mainChild3,
+.mainChild4,
+.mainChild5,
+.mainChild6,
+.mainChild7,
+.mainInner,
+.rectangleDiv {
+  position: absolute;
+  top: 632px;
+  left: 150px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkgray);
+  width: 57px;
+  height: 32px;
+}
+.mainChild1 {
+  background-color: var(--color-dimgray-100);
+}
+.mainChild1,
+.mainChild2,
+.mainChild3,
+.mainChild4,
+.mainChild5,
+.mainChild6,
+.mainChild7,
+.rectangleDiv {
+  left: 1041px;
+}
+.mainChild1,
+.mainChild2,
+.mainChild3,
+.mainChild4,
+.mainChild5,
+.mainChild6,
+.mainChild7 {
+  left: 960px;
+}
+.mainChild2,
+.mainChild3,
+.mainChild4,
+.mainChild5,
+.mainChild6,
+.mainChild7 {
+  left: 879px;
+}
+.mainChild3,
+.mainChild4,
+.mainChild5,
+.mainChild6,
+.mainChild7 {
+  left: 798px;
+}
+.mainChild4,
+.mainChild5,
+.mainChild6,
+.mainChild7 {
+  left: 717px;
+}
+.mainChild5,
+.mainChild6,
+.mainChild7 {
+  left: 636px;
+}
+.mainChild6,
+.mainChild7 {
+  left: 555px;
+}
+.mainChild7 {
+  left: 474px;
+}
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  top: 636px;
+  left: 490px;
+}
+.div5,
+.div6 {
+  left: 571px;
+}
+.div6 {
+  left: 652px;
+}
+.div10,
+.div11,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 636px;
+  left: 733px;
+}
+.div10,
+.div11,
+.div8,
+.div9 {
+  left: 814px;
+}
+.div10,
+.div11,
+.div9 {
+  left: 889px;
+}
+.div10,
+.div11 {
+  left: 970px;
+}
+.div11 {
+  left: 1051px;
+}
+.mainChild10,
+.mainChild8,
+.mainChild9 {
+  position: absolute;
+  top: 632px;
+  left: 393px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkgray);
+  width: 57px;
+  height: 32px;
+}
+.mainChild10,
+.mainChild9 {
+  left: 312px;
+}
+.mainChild10 {
+  left: 231px;
+}
+.div12,
+.div13,
+.div14,
+.div15 {
+  position: absolute;
+  top: 636px;
+  left: 165px;
+}
+.div13,
+.div14,
+.div15 {
+  left: 247px;
+}
+.div14,
+.div15 {
+  left: 328px;
+}
+.div15 {
+  left: 409px;
+}
+.mainChild11,
+.mainChild12,
+.mainChild13 {
+  position: absolute;
+  top: 688px;
+  left: 142px;
+  background-color: var(--color-lightpink);
+  width: 22px;
+  height: 22px;
+}
+.mainChild12,
+.mainChild13 {
+  top: 737px;
+  background-color: var(--color-lightblue);
+}
+.mainChild13 {
+  top: 786px;
+  background-color: var(--color-darkseagreen);
+}
+.div16,
+.div17,
+.div18,
+.div19 {
+  position: absolute;
+  top: 691px;
+  left: 171px;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray-300);
+}
+.div17,
+.div18,
+.div19 {
+  top: 739px;
+}
+.div18,
+.div19 {
+  top: 789px;
+}
+.div19 {
+  top: 835px;
+  left: 104px;
+}
+.mainChild14,
+.mainChild40 {
+  position: absolute;
+  top: 685px;
+  left: 327px;
+  border-radius: 5px;
+  background-color: rgba(255, 252, 248, 0.6);
+  width: 771px;
+  height: 168px;
+  overflow-y: auto;
+}
+.mainChild40 {
+  background-color: transparent;
+  width: 731px;
+  height: 128px;
+  top: 705px;
+  left: 347px;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-300);
+}
+.div21 {
+  position: absolute;
+  top: 19px;
+  left: 260px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-200);
+}
+.child {
+  left: 198px;
+  width: 27px;
+  height: 27px;
+  object-fit: contain;
+}
+.child,
+.div22,
+.item {
+  position: absolute;
+  top: 67px;
+}
+.item {
+  left: 394px;
+  width: 27px;
+  height: 27px;
+  object-fit: contain;
+}
+.div22 {
+  top: 65px;
+  left: 262px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.div23,
+.div24,
+.div25 {
+  position: absolute;
+  top: 123px;
+  left: 60px;
+}
+.div24,
+.div25 {
+  left: 544px;
+}
+.div25 {
+  left: 463px;
+}
+.div26,
+.div27,
+.div28,
+.div29 {
+  position: absolute;
+  top: 123px;
+  left: 383px;
+}
+.div27,
+.div28,
+.div29 {
+  left: 301px;
+}
+.div28,
+.div29 {
+  left: 221px;
+}
+.div29 {
+  left: 140px;
+}
+.angryColor,
+.happyColor,
+.nothingColor,
+.sadColor {
+  position: absolute;
+  top: 727px;
+  left: 275px;
+  background-color: var(--color-lightpink);
+  width: 19px;
+  height: 19px;
+}
+.happyColor,
+.nothingColor,
+.sadColor {
+  left: 500px;
+  background-color: var(--color-lightgray);
+}
+.happyColor,
+.sadColor {
+  left: 350px;
+  background-color: var(--color-lightblue);
+}
+.happyColor {
+  left: 425px;
+  background-color: var(--color-darkseagreen);
+}
+.div30,
+.div31,
+.div32,
+.div33,
+.div34 {
+  position: absolute;
+  top: 730px;
+  left: 300px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray-100);
+}
+.div31,
+.div32,
+.div33,
+.div34 {
+  top: 729px;
+  left: 375px;
+}
+.div32,
+.div33,
+.div34 {
+  left: 450px;
+}
+.div33,
+.div34 {
+  left: 525px;
+}
+.div34 {
+  left: 37px;
+  font-size: var(--font-size-sm);
+}
+.div20,
+.graph1Icon {
+  position: absolute;
+  overflow: hidden;
+}
+.div20 {
+  top: 116px;
+  left: 1242px;
+  background-color: var(--color-linen-200);
+  width: 618px;
+  height: 765px;
+  color: var(--color-dimgray-300);
+}
+.graph1Icon {
+  height: 50.72%;
+  width: 59.18%;
+  top: 12.79%;
+  right: 37.85%;
+  bottom: 36.49%;
+  left: 2.97%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.main {
+  width: 100%;
+  position: relative;
+  background-color: #f7f2eb;
+  height: 907px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-s-core-dream);
+}

@@ -1,0 +1,266 @@
+@font-face {
+  font-family: "MS";
+  src: url("/MS.ttf") format("truetype");
+  font-weight: normal;
+}
+pre {
+  color: #292622;
+  font-family: 'MS', serif;
+  white-space: pre-wrap; /* 줄바꿈 유지 */
+  max-width: 100%; /* 최대 너비 설정 */
+}
+
+
+.title1 {
+  position: absolute;
+  top: 23px;
+  left: 233px;
+  white-space: pre-wrap;
+  text-align: center;
+  color: #574D42;
+}
+.title2 {
+  position: absolute;
+  top: 23px;
+  left: 794px;
+  white-space: pre-wrap;
+  text-align: center;
+  color: #574D42;
+}
+.title3 {
+  position: absolute;
+  top: 23px;
+  left: 1349px;
+  white-space: pre-wrap;
+  text-align: center;
+  color: #574D42;
+}
+
+.diaryCheckPopupChild1
+{
+  position: absolute;
+  top: 64px;
+  left: 61px;
+  border-radius: var(--br-3xs) var(--br-3xs) var(--br-3xs) var(--br-3xs);
+  background-color: #FFF9F1;
+  width: 495px;
+  height: 666px;
+  z-index: 0;
+}
+.diaryCheckPopupChild1_content{
+  position: absolute;
+  top: 107px;
+  left: 108px;
+  width: 387px;
+  height: 486px;
+  z-index: 0;
+  color: #292622;
+  object-fit: cover;
+  font-size: 25px;
+  font-family: 'MS', serif;}
+.diaryCheckPopupChild2
+{
+  position: absolute;
+  top: 64px;
+  left: 619px;
+  border-radius: var(--br-3xs) var(--br-3xs) var(--br-3xs) var(--br-3xs);
+  background-color: #E0D2C0;
+  width: 495px;
+  height: 666px;
+  z-index: 0;
+  
+}
+.diaryCheckPopupChild2_content{
+  position: absolute;
+  top: 107px;
+  left: 673px;
+  width: 387px;
+  height: 486px;
+  z-index: 1;
+  color: #292622;
+  object-fit: cover;
+  font-size: 25px;
+  font-family: 'MS', serif;
+}
+.diaryCheckPopupChild3
+{
+  position: absolute;
+  top: 64px;
+  left: 1178px;
+  border-radius: var(--br-3xs) var(--br-3xs) var(--br-3xs) var(--br-3xs);
+  background-color: #FFF9F1;
+  width: 495px;
+  height: 666px;
+  z-index: 0;
+}
+.diaryCheckPopupChild3_content{
+  position: absolute;
+  top: 90px;
+  left: 1348px;
+  width: 320px;
+  height: 575px;
+  z-index: 0;
+  color: #292622;
+  object-fit: cover;
+  font-size: 22px;
+  font-family: 'MS', serif;
+}
+
+.gomgom {
+  position: absolute;
+  top: 21px;
+  left: 651px;
+  width: 431px;
+  height: 709px;
+  z-index: 0;
+  object-fit: cover;
+}
+.gomgom_book {
+  position: absolute;
+  object-fit: cover;
+  top: 108px;
+  left: 1215px;
+  width: 100px;
+  height: 91.18px;
+}
+.gomgom_music {
+  position: absolute;
+  object-fit: cover;
+  top: 397px;
+  left: 1199px;
+  width: 130px;
+  height: 130px;
+}
+.gomgom_movie {
+  position: absolute;
+  object-fit: cover;
+  top: 242px;
+  left: 1206px;
+  width: 120px;
+  height: 120px;
+}
+.gomgom_food {
+  position: absolute;
+  object-fit: cover;
+  top: 551px;
+  left: 1196px;
+  width: 130px;
+  height: 130px;
+}
+.book {
+  position: absolute;
+  object-fit: cover;
+  top: 204px;
+  left: 1258px;
+  width: 15px;
+  height: 18px;
+  font-size: 15px;
+  color: #4B443B;
+}
+.movie {
+  position: absolute;
+  object-fit: cover;
+  top: 353px;
+  left: 1251px;
+  width: 29px;
+  height: 18px;
+  font-size: 15px;
+  color: #4B443B;
+}
+.music {
+  position: absolute;
+  object-fit: cover;
+  top: 507px;
+  left: 1251px;
+  width: 29px;
+  height: 18px;
+  font-size: 15px;
+  color: #4B443B;
+}
+.food {
+  position: absolute;
+  object-fit: cover;
+  top: 661px;
+  left: 1251px;
+  width: 29px;
+  height: 19px;
+  font-size: 15px;
+  color: #4B443B;
+}
+.book_title,
+.book_content,
+.movie_title,
+.movie_content,
+.music_title,
+.music_content,
+.food_title,
+.food_content{
+  position: absolute;
+  object-fit: cover;
+  font-size: 16px;
+  left: 1347px;
+  width: 300px;
+  color: #292622;
+}
+
+.book_content,
+.movie_content,
+.music_content,
+.food_content{
+  font-family: 'MS', serif;
+  font-size: 22px;
+}
+
+.book_title{
+  top: 120px;
+}
+.book_content{
+  top: 140px;
+}
+.movie_title{
+  top: 264px;
+}
+.movie_content{
+  top: 284px;
+}
+.music_title{
+  top: 430px;
+}
+.music_content{
+  top: 450px;
+}
+.food_title{
+  top: 585px;
+}
+.food_content{
+  top: 605px;
+}
+
+.loading{
+  position: absolute;
+  top: 107px;
+  left: 1348px;
+  width: 320px;
+  height: 575px;
+  z-index: 0;
+  color: #292622;
+  object-fit: cover;
+  font-size: 25px;
+  font-family: 'MS', serif;
+}
+
+.diaryCheckPopup {
+  position: relative;
+  width: 1734px;
+  background-color: var(--color-linen-200);
+  height: 765px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: #EEE8DB;
+  font-family: var(--font-s-core-dream);
+  border-radius: var(--br-3xs) var(--br-3xs) var(--br-3xs) var(--br-3xs);
+
+}

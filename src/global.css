@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "S-Core Dream";
+  src: url("/public/SCDream3.otf");
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-s-core-dream: "S-Core Dream";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-smi: 13px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-mini: 15px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-linen-100: #f4ece0;
+  --color-linen-200: #eee8db;
+  --color-dimgray-100: #807160;
+  --color-dimgray-200: #574e42;
+  --color-dimgray-300: #4b443b;
+  --color-darkseagreen: #97c4a4;
+  --color-lightblue: #97bcc4;
+  --color-lightgray: #d7cfc9;
+  --color-lightpink: #eba6a6;
+  --color-black: #000;
+  --color-snow-100: #fffcf8;
+  --color-white: #fff;
+  --color-darkgray: #aea293;
+  --color-gray: #908676;
+  --color-silver-100: #d4c5b0;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-3xs: 10px;
+}

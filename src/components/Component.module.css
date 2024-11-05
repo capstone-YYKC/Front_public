@@ -1,0 +1,154 @@
+.component1Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-snow-100);
+}
+.div {
+  position: absolute;
+  height: 3.91%;
+  width: 15.51%;
+  top: 2.39%;
+  left: 42.2%;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-200);
+  display: inline-block;
+}
+.component1Inner,
+.component1Item,
+.lineDiv {
+  position: absolute;
+  bottom: 14.67%;
+  left: 7.09%;
+  box-sizing: border-box;
+}
+.component1Item {
+  height: 75.22%;
+  width: 0.09%;
+  top: 10.11%;
+  right: 92.82%;
+  border-right: 1px solid var(--color-dimgray-100);
+}
+.component1Inner,
+.lineDiv {
+  height: 0.22%;
+  width: 85.73%;
+  top: 85.11%;
+  right: 7.18%;
+  border-top: 1px solid var(--color-dimgray-100);
+}
+.lineDiv {
+  top: 47.28%;
+  bottom: 52.5%;
+  border-top: 1px dashed var(--color-dimgray-100);
+}
+.lineIcon {
+  position: absolute;
+  height: 4.2%;
+  width: 2.83%;
+  top: 85.24%;
+  right: 92.85%;
+  bottom: 10.57%;
+  left: 4.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.div1,
+.div2 {
+  position: absolute;
+  height: 2.17%;
+  width: 0.79%;
+  top: 46.3%;
+  left: 5.29%;
+  display: inline-block;
+}
+.div2 {
+  height: 2.39%;
+  width: 2.38%;
+  top: 86.96%;
+  left: 6.34%;
+}
+.p {
+  margin: 0;
+}
+.div3 {
+  position: absolute;
+  height: 4.35%;
+  width: 2.38%;
+  top: 78.91%;
+  left: 3.96%;
+  display: inline-block;
+}
+.component1Child1,
+.component1Child2,
+.component1Child3,
+.component1Child4,
+.component1Child5,
+.component1Child6,
+.component1Child7 {
+  position: absolute;
+  height: 1.96%;
+  width: 0.09%;
+  top: 83.15%;
+  right: 82.07%;
+  bottom: 14.89%;
+  left: 17.84%;
+  border-right: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.component1Child2,
+.component1Child3,
+.component1Child4,
+.component1Child5,
+.component1Child6,
+.component1Child7 {
+  right: 71.5%;
+  left: 28.41%;
+}
+.component1Child3,
+.component1Child4,
+.component1Child5,
+.component1Child6,
+.component1Child7 {
+  right: 60.84%;
+  left: 39.07%;
+}
+.component1Child4,
+.component1Child5,
+.component1Child6,
+.component1Child7 {
+  right: 50.18%;
+  left: 49.74%;
+}
+.component1Child5,
+.component1Child6,
+.component1Child7 {
+  right: 39.52%;
+  left: 60.4%;
+}
+.component1Child6,
+.component1Child7 {
+  right: 28.85%;
+  left: 71.06%;
+}
+.component1Child7 {
+  right: 18.19%;
+  left: 81.72%;
+}
+.component1 {
+  position: absolute;
+  top: 1148px;
+  left: 1592px;
+  width: 1135px;
+  height: 460px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-s-core-dream);
+}
