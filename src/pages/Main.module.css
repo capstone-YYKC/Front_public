@@ -205,7 +205,7 @@
 .mainChild12,
 .mainChild13 {
   position: absolute;
-  top: 688px;
+  top: 708px;
   left: 142px;
   background-color: var(--color-lightpink);
   width: 22px;
@@ -213,11 +213,11 @@
 }
 .mainChild12,
 .mainChild13 {
-  top: 737px;
+  top: 757px;
   background-color: var(--color-lightblue);
 }
 .mainChild13 {
-  top: 786px;
+  top: 806px;
   background-color: var(--color-darkseagreen);
 }
 .div16,
@@ -225,7 +225,7 @@
 .div18,
 .div19 {
   position: absolute;
-  top: 691px;
+  top: 711px;
   left: 171px;
   font-size: var(--font-size-mini);
   color: var(--color-dimgray-300);
@@ -233,11 +233,11 @@
 .div17,
 .div18,
 .div19 {
-  top: 739px;
+  top: 759px;
 }
 .div18,
 .div19 {
-  top: 789px;
+  top: 809px;
 }
 .div19 {
   top: 835px;
